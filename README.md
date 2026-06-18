@@ -1,6 +1,6 @@
 # Hi, I'm Ravalika 👋
 
-Java Backend Developer with hands-on experience building REST APIs using Spring Boot, PostgreSQL, JWT Authentication and Docker.
+Java Backend Developer building backend applications and REST APIs using Spring Boot, PostgreSQL and Docker through personal projects.
 
 ## Skills
 
