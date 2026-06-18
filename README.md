@@ -17,13 +17,28 @@ Java Backend Developer building backend applications and REST APIs using Spring 
 ## Featured Projects
 
 ### Employee Leave Management System
-A backend application for managing employee leave requests, approvals, leave balances, and role-based access control.
+
+Spring Boot, Java 21, PostgreSQL, JWT Authentication, RBAC, Docker
+
+Repository:
+
+https://github.com/ravalika-reddy04/LeaveManagementSystem
 
 ### E-Commerce Backend System
-A REST API-based e-commerce backend supporting product management, shopping cart operations, order processing, and authentication.
+
+Spring Boot, Java 21, PostgreSQL, JWT Authentication, Cart and Order Management
+
+Repository:
+
+https://github.com/ravalika-reddy04/ECommerceBackend
 
 ### Vehicle Service Management System
-A backend platform for vehicle service booking, appointment scheduling, and service management.
+
+Spring Boot, Java 21, PostgreSQL, Appointment Booking and Service Tracking
+
+Repository:
+
+https://github.com/ravalika-reddy04/VehicleServiceManagementSystem
 
 ## Currently Learning
 
