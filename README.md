@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Ravalika 👋
 
-<!--
-**ravalika-reddy04/ravalika-reddy04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java Backend Developer passionate about building scalable backend applications using Java and Spring Boot.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java 21
+- Spring Boot
+- PostgreSQL
+- REST APIs
+- JWT Authentication
+- Docker
+- GitHub Actions
+- Maven
+- Git
+
+## Featured Projects
+
+### Employee Leave Management System
+A backend application for managing employee leave requests, approvals, leave balances, and role-based access control.
+
+### E-Commerce Backend System
+A REST API-based e-commerce backend supporting product management, shopping cart operations, order processing, and authentication.
+
+### Vehicle Service Management System
+A backend platform for vehicle service booking, appointment scheduling, and service management.
+
+## Currently Learning
+
+- Advanced Spring Security
+- Microservices Architecture
+- System Design
+
+## Connect With Me
+
+- LinkedIn: linkedin.com/in/ravalika-reddy-b760621a2
+- Email: ravalikareddy50@gmail.com
